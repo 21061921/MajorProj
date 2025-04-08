@@ -1,1 +1,1 @@
-# MajorProj
+# MajorProject
